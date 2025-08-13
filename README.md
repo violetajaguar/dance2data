@@ -32,4 +32,4 @@ python3 -m pip freeze > requirements.txt
 - Private media should go in data/ and be excluded from Git
 
 ## License
-MIT (or your choice). Add a LICENSE file if needed.
+MIT 
